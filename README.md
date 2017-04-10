@@ -4,7 +4,7 @@ Points: 13/15
 Minuses:
 - memory leak
 - no 'tail'
-- main funcktion sucks
+- main function sucks
 
 OPEN BY RAW OPTION
 
