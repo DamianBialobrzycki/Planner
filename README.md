@@ -1,5 +1,10 @@
 # Planner
 Task from "Algorithms and data structures" subject.
+Points: 13/15
+Minuses:
+- memory leak
+- no 'tail'
+- main funcktion sucks
 
 OPEN BY RAW OPTION
 
